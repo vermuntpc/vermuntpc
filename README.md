@@ -1,4 +1,4 @@
-![Ecohydrology and microwave remote sensing](https://github.com/vermuntpc/vermuntpc/blob/main/20240207_094149a.jpg)
+![Ecohydrology and microwave remote sensing](https://github.com/vermuntpc/vermuntpc/blob/main/20240207_094149b.jpg)
 
 ### Hi there 👋, my name is Paul Vermunt
 
