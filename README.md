@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Paul Vermunt
-#### Ecohydrology and microwave remote sensing
 ![Ecohydrology and microwave remote sensing](https://github.com/vermuntpc/vermuntpc/blob/main/20240207_094149a.jpg)
+
+### Hi there 👋, my name is Paul Vermunt
 
 I am a postdoctoral researcher at the Department of Water Resources (WRS), Faculty of Geo-Information Science and Earth Observation (ITC).
 
